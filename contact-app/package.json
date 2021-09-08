@@ -1,0 +1,16 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Belajar Node dengan membuat aplikasi pengelola kontak",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamad Alief Rizky Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
+}

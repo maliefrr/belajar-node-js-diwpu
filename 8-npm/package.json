@@ -1,0 +1,19 @@
+{
+  "name": "8-npm",
+  "version": "1.0.0",
+  "description": "Belajar node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Alief Rizky Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
